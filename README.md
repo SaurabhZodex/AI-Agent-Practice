@@ -36,8 +36,8 @@ Frameworks used:
 
 1. Clone repo:
 ```bash
-git clone https://github.com/yourusername/ai-agents-practice.git
-cd ai-agents-practice
+git clone https://github.com/SaurabhZodex/AI-Agent-Practice.git
+cd AI-Agent-Practice
 ```
 
 2. Create virtual environment:
@@ -52,25 +52,16 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-## 🔑 Configuration
-
-1. Create `.env` file:
-```ini
-OPENAI_API_KEY=your_openai_key
-OPENWEATHER_API_KEY=your_weather_key
-SERPER_API_KEY=your_serper_key
-```
-
 ## 📂 Project Structure
 ```
 |── README.md
-├── autogen_agents.py       # Autogen implementations
-├── langchain_agents.py     # Langchain implementations
-├── langgraph_agents.py     # LangGraph workflows
-├── crewai_agents.py        # CrewAI task orchestration
-├── data/                   # Book texts
-├── requirements.txt
-└── .env.example
+├── autogen_agents.ipynb       # Autogen implementations
+├── langchain_agents.ipynb     # Langchain implementations
+├── langgraph_agents.ipynb     # LangGraph workflows
+├── crewai_agents.ipynb        # CrewAI task orchestration
+├── Dataset/                   # Book texts
+├── requirements.txt           # Python dependencies
+└── .env                       # Environment variables
 ```
 
 ## 🔍 Framework Comparison Guide
