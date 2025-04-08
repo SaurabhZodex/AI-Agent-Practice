@@ -19,11 +19,11 @@ Frameworks used:
 
 ### 📚 Book Analysis Agent
 - Vector DB for "Verity" & "The Girl on the Train"
-- Uses FAISS + OpenAI embeddings
+- Uses Chroma + BAAI/llm-embedder embeddings
 - Long-term memory for conversation history
 
 ### 🌦️ Weather Agent
-- OpenWeatherMap API integration
+- Open-meteo API integration
 - Caching mechanism for frequent queries
 - Location context maintenance
 
