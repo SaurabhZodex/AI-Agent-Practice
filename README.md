@@ -22,11 +22,6 @@ Frameworks used:
 - Uses Chroma + BAAI/llm-embedder embeddings
 - Long-term memory for conversation history
 
-### 🌦️ Weather Agent
-- Open-meteo API integration
-- Caching mechanism for frequent queries
-- Location context maintenance
-
 ### 🔍 Internet Search Agent
 - Serper API integration (Google Search)
 - Summary generation from results
