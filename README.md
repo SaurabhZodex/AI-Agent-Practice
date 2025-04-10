@@ -5,7 +5,6 @@ Practice implementation of multi-agent AI systems using Autogen, Langchain, Lang
 ## 📌 Overview
 This repository contains an experimental setup for creating AI agent systems that can:
 - Answer questions about specific books using vector databases
-- Fetch real-time weather information
 - Perform internet searches
 - Maintain conversation memory and context
 
