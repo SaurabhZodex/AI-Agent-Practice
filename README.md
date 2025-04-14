@@ -9,10 +9,10 @@ This repository contains an experimental setup for creating AI agent systems tha
 - Maintain conversation memory and context
 
 Frameworks used:
-- **Autogen**: Multi-agent conversations
-- **Langchain**: Vector DB/book analysis
-- **LangGraph**: Agent workflow orchestration
-- **CrewAI**: Task delegation and coordination
+- **Langchain**
+- **LangGraph**
+- **Autogen**
+- **CrewAI**
 
 ## 🚀 Features
 
