@@ -36,7 +36,7 @@ cd AI-Agent-Practice
 
 2. Create virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate  # Windows
 ```
@@ -49,10 +49,8 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 ```
 |── README.md
-├── autogen_agents.ipynb       # Autogen implementations
 ├── langchain_agents.ipynb     # Langchain implementations
 ├── langgraph_agents.ipynb     # LangGraph workflows
-├── crewai_agents.ipynb        # CrewAI task orchestration
 ├── Dataset/                   # Book texts
 ├── requirements.txt           # Python dependencies
 └── .env                       # Environment variables
